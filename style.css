@@ -1,5 +1,6 @@
 * {
   font-family: 'Trebuchet MS', sans-serif;
+  box-sizing: border-box;
 }
 
 .title {
@@ -30,7 +31,6 @@ a {
   height: 30px;
   margin-bottom: 10px;
   text-align: center;
-  padding-top: 5px;
   font-size: 20px;
 }
 
